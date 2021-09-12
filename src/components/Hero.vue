@@ -11,9 +11,9 @@
                 at your fingertips
               </h1>
               <p>Fresh food available arround, get yours now!</p>
-              <button class="btn btn-success">
+              <router-link class="btn btn-success" to="/menu">
                 Order Now <b-icon-arrow-right></b-icon-arrow-right>
-              </button>
+              </router-link>
             </div>
           </div>
         </div>

@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container footer">
     <div class="row">
       <div class="col text-center">
         <p>2021 | Kulineran with Vue Js</p>

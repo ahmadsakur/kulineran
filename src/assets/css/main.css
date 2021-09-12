@@ -17,4 +17,28 @@
 .card .card-img-top {
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
+  height: 15vw;
+  object-fit: cover;
+}
+.breadcrumb {
+  background-color: transparent;
+  padding: 0;
+}
+.breadcrumb-item.active {
+  color: #43b883;
+  font-weight: bold;
+}
+.breadcrumb-links:hover {
+  text-decoration: none;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.img-fluid {
+  border-radius: 10px;
+  margin-bottom: 30px;
 }
