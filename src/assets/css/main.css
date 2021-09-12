@@ -4,9 +4,17 @@
 
 .router-link-exact-active {
   font-weight: bold;
+  color: #43b883 !important;
 }
 
 .btn-success,
 .badge-success {
   background-color: #43b883;
+}
+.card {
+  border-radius: 15px;
+}
+.card .card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
